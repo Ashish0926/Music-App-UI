@@ -128,7 +128,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/_20sdp"
         android:gravity="center"
-        android:text="Arijit Singh"
+        android:text="Pink Sweats"
         android:textColor="@color/primary"
         android:textSize="@dimen/_15ssp"
         app:layout_constraintBottom_toTopOf="@id/textDuration"/>
@@ -139,7 +139,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/_2sdp"
         android:gravity="center"
-        android:text="Khulke Jeene Ka"
+        android:text="At My Worst"
         android:textColor="@color/primary_text"
         android:textSize="@dimen/_22ssp"
         android:textStyle="bold"
@@ -202,7 +202,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="@dimen/_2sdp"
-            android:src="@drawable/album_image"
+            android:src="@drawable/song_image"
             app:riv_oval="true"/>
 
     </soup.neumorphism.NeumorphCardView>
