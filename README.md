@@ -1,5 +1,5 @@
 # Music-App-UI
-Neuromorphic UI Design. 
+Neumorphic UI Design. 
 
 ![Screenshot_1619602408](https://user-images.githubusercontent.com/55145996/116382233-518e2280-a833-11eb-90fe-8f6a73491572.png)
 
